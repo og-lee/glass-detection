@@ -47,7 +47,7 @@ class ReflectionDataset(Dataset):
         if self.augmentation: 
             sample = self.augmentation(image = image, mask = mask)
             image, mask = sample['image'], sample['mask']
-
+        
         image = image.astype(np.float32)
         mask =  mask.astype(np.float32)
         # mask =  mask.astype(np.int64)
