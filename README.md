@@ -12,3 +12,6 @@ Cuda : 9.0 \
 albumentations 1.1.0 (data augmentation) \ 
 
 ![resulting image](./img/results.PNG)
+
+Dataset was labeled with https://github.com/wkentaro/labelme 
+Input to Unet : projected point cloud counts, RGB, closest distance 
