@@ -5,7 +5,7 @@ Simple UNet based glass region detection
 
 UNet : https://github.com/qubvel/segmentation_models.pytorch , 0.2.0
 
-Dataset : UNIST Large scale reflection removal dataset  
+Dataset, UNIST Large scale reflection removal dataset : https://vip.unist.ac.kr/large-scale-3d-point-clouds-dataset-for-virtual-point-removal/
 
 Pytorch  1.9.1 <br />
 Cuda : 9.0 <br />
