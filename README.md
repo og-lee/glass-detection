@@ -10,4 +10,4 @@ Dataset : UNIST Large scale reflection removal dataset
 Pytorch  1.9.1 \
 Cuda : 9.0 \
 albumentations 1.1.0 (data augmentation) \ 
-![alt text](https://github.com/og-lee/glass-detection/edit/master/img/result.png)
+![alt text](https://github.com/og-lee/glass-detection/edit/master/img/result.PNG)
