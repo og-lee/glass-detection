@@ -11,4 +11,4 @@ Pytorch  1.9.1 \
 Cuda : 9.0 \
 albumentations 1.1.0 (data augmentation) \ 
 
-![alt text](https://github.com/og-lee/glass-detection/tree/master/img/result.PNG?raw=true)
+![alt text](https://github.com/og-lee/glass-detection/tree/master/img/results.PNG?raw=true)
