@@ -1,4 +1,4 @@
-# glass-detection
+# glass-detection in projected point cloud panorama image
 
 Simple UNet based glass region detection 
 
